@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: LAPTOP-DH4FVI3D
+  vmImage: Default
 
 steps:
 - task: Maven@3
